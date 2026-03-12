@@ -8,12 +8,14 @@ This project demonstrates the development of a modern data warehousing solution 
 The goal of this project is to showcase practical skills in data engineering and data analytics, including ETL development, data modeling, and SQL-based analysis to support business decision-making.
 
 **🚀 Project Requirements**
+
 ***Building the Data Warehouse (Data Engineering)***
+
 **Objective**
 
 Design and implement a modern data warehouse using SQL Server that integrates multiple data sources and prepares structured datasets for analytical reporting.
 
-**Specifications:**
+***Specifications:***
 
 **Data Sources**: Import data from two operational systems (ERP and CRM) provided as CSV files.
 
