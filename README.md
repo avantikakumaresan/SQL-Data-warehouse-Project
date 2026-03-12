@@ -28,6 +28,7 @@ Design and implement a modern data warehouse using SQL Server that integrates mu
 **Documentation**:Provide clear documentation of the data architecture and data model to support both technical teams and business stakeholders.
 
 ***📊 BI: Analytics and Reporting (Data Analytics)***
+
 **Objective**
 
 **Develop SQL-based analytical queries to generate insights related to:**
