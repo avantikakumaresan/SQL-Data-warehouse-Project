@@ -82,7 +82,6 @@ DROP TABLE silver.erp_cust_az12;
 
 CREATE TABLE silver.erp_cust_az12(
 	CID NVARCHAR(50),
-	cust_key NVARCHAR(50),
 	BDATE DATE,
 	GEN NVARCHAR(50)
 );
