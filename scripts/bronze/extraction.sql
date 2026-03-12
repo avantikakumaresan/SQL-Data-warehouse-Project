@@ -2,7 +2,7 @@
 ===============================================================================
 Script: Bronze Layer Data Load Procedure
 Project: Modern Data Warehouse (SQL Server)
-Author: Naveen Kumar
+Author: Avantika Kuamresan
 
 Description:
 This stored procedure loads raw data into the Bronze layer tables of the 
