@@ -255,16 +255,16 @@ TRUNCATE TABLE silver.erp_cust_az12;
 INSERT INTO silver.erp_cust_az12
 (
 CID,
-cust_key,
 BDATE,
 GEN
 )
 
 SELECT
-CID,
-
+    
 -- Extract customer key
-SUBSTRING(CID,4,10),
+CASE WHEN CID LIKE 'NAS%' THEN SUBSTRING(CID,4,LEN(CID))
+     ELSE CID
+     END CID,
 
 -- Remove future birthdates
 CASE
