@@ -29,31 +29,22 @@ Design and implement a modern data warehouse using SQL Server that integrates mu
 **Objective**
 
 **Develop SQL-based analytical queries to generate insights related to:**
+
 **Customer Behavior**: Understanding purchasing patterns and customer engagement.
+
 **Product Performance**:Evaluating which products contribute most to sales and revenue.
+
 **Sales Trends**: Identifying key trends and patterns in sales performance.
 
 These insights enable stakeholders to monitor key business metrics and support data-driven decision-making.
-
-***Project Structure***
-data-warehouse-project
-│
-├── datasets/           # Raw source data (ERP and CRM CSV files)
-├── sql/
-│   ├── staging/        # Data ingestion scripts
-│   ├── transformations/# Data cleansing and transformations
-│   └── warehouse/      # Data warehouse schema and tables
-│
-├── analytics/          # Analytical SQL queries
-├── docs/               # Architecture diagrams and documentation
-└── README.md
 
 
 ***👨‍💻 About Me***
 
 Hi, I'm Avantika Kumaresan
 
-I am a data professional currently working on **data migration projects in Oracle Fusion**, where I handle tasks related to **data validation, transformation, and data quality analysis**. My work involves ensuring accurate data movement between systems and maintaining high data quality standards.
+I am a data professional currently working on **data migration projects in Oracle Fusion**, where I handle tasks related to **data validation, transformation, and data quality analysis**. 
+My work involves ensuring accurate data movement between systems and maintaining high data quality standards.
 Alongside my current role, I have experience in **data analytics**, using tools such as **SQL, Python, Power BI, and Tableau** to analyze datasets and generate business insights.
 I hold a **Master’s degree in Business Analytics from Queen’s University Belfast**, where I worked on machine learning models for **customer transaction prediction**.
 Currently, I am expanding my expertise into **data engineering**, focusing on building **modern data warehouses, ETL pipelines, and scalable data solutions**.
