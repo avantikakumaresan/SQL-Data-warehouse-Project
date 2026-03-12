@@ -16,9 +16,13 @@ Design and implement a modern data warehouse using SQL Server that integrates mu
 **Specifications:**
 
 **Data Sources**: Import data from two operational systems (ERP and CRM) provided as CSV files.
+
 **Data Quality Management**: Perform data cleansing and transformation to address inconsistencies, missing values, and formatting issues before loading into the warehouse.
+
 **Data Integration**:Consolidate datasets from different systems into a unified and analytics-friendly data model.
+
 **Scope**: Focus on processing the most recent dataset; historical data tracking is not included in this implementation.
+
 **Documentation**:Provide clear documentation of the data architecture and data model to support both technical teams and business stakeholders.
 
 ***📊 BI: Analytics and Reporting (Data Analytics)***
