@@ -2,7 +2,7 @@
 ===============================================================================
 Script: silver Layer Table Creation
 Project: Modern Data Warehouse (SQL Server)
-Author: Naveen Kumar
+Author:Avantika Kumaresan
 
 Description:
 This script creates the silver layer tables in the Data Warehouse.
